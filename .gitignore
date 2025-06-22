@@ -71,3 +71,6 @@ samconfig.toml
 
 # Miscellaneous
 .tmp/
+
+# claude
+.claude/settings.local.json
