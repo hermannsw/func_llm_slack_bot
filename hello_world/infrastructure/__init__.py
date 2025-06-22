@@ -1,0 +1,1 @@
+"""Infrastructure layer of the Slack bot application."""
